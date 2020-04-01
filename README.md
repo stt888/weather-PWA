@@ -1,6 +1,6 @@
 # Progressive Web App Codelab
 
-In this codelab, It's a weather web app using Progressive Web App
+It's a weather web app using Progressive Web App
 techniques. This app will:
 
 * Use responsive design, so it works on desktop or mobile.
